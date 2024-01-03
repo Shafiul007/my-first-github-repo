@@ -1,8 +1,15 @@
-h1{
+h1,h2{
     background-color: aqua;
     color: chartreuse;
+    text-align: center;
 }
 p{
     background-color:  tan;
     color: blue;
+    text-align: justify;
+}
+ol{
+    background-color: rebeccapurple;
+    color: black;
+    
 }
