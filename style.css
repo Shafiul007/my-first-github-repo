@@ -1,10 +1,10 @@
 h1,h2{
     background-color: aqua;
-    color: chartreuse;
+    color: rgb(19, 3, 44);
     text-align: center;
 }
 p{
-    background-color:  tan;
+    background-color:  rgb(0, 0, 0);
     color: blue;
     text-align: justify;
 }
